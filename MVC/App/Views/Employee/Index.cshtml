@@ -1,0 +1,32 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Employee Index Page";
+}
+
+
+@{
+    List<Employee> list = (List<Employee>)ViewData["Employee"];
+
+    
+        @foreach (Employee dept in list)
+        {
+            <table border="2px">
+                <tr>
+                    <td>@dept.eid</td>
+                    
+                    <td>@dept.ename</td>
+                    
+                    <td>@dept.city</td>
+
+                    <td>@dept.sallary</td>
+         </tr> 
+
+                
+            </table>}
+     <a href="/Employee/insert"><button type="button">Insert</button></a>
+    <br>
+    
+
+    
+}

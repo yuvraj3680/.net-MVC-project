@@ -1,0 +1,17 @@
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\sai\Desktop\MVC\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\sai\Desktop\MVC\BLL\obj\Debug\net7.0\ref\BLL.dll
